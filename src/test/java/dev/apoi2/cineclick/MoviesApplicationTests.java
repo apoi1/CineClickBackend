@@ -1,4 +1,4 @@
-package dev.apoi2.movies;
+package dev.apoi2.cineclick;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

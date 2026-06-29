@@ -1,4 +1,4 @@
-package dev.apoi2.movies;
+package dev.apoi2.cineclick;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;

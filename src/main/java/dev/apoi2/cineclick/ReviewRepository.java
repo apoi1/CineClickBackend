@@ -1,4 +1,4 @@
-package dev.apoi2.movies;
+package dev.apoi2.cineclick;
 
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;

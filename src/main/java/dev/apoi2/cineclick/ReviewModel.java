@@ -1,4 +1,4 @@
-package dev.apoi2.movies;
+package dev.apoi2.cineclick;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
